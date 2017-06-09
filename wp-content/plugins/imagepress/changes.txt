@@ -1,0 +1,9 @@
+CREATE TABLE IF NOT EXISTS `cms_ip_collections` (
+  `collection_ID` int(11) NOT NULL,
+  `collection_title` text COLLATE utf8_unicode_ci NOT NULL,
+  `collection_status` tinyint(4) NOT NULL DEFAULT '1',
+  `collection_author_ID` int(11) NOT NULL
+) ENGINE=MyISAM DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci COMMENT='ImagePress Collections';
+
+ALTER TABLE `cms_ip_collections` ADD PRIMARY KEY (`collection_ID`);
+ALTER TABLE `cms_ip_collections` MODIFY `collection_ID` int(11) NOT NULL AUTO_INCREMENT;

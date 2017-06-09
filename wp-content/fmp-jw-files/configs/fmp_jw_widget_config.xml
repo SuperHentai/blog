@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mp3config>
+  <autostart>false</autostart>
+  <shuffle>true</shuffle>
+  <repeat>all</repeat>
+  <volume>50</volume>
+  <showdisplay>true</showdisplay>
+  <showplaylist>true</showplaylist>
+  <linktarget>_blank</linktarget>
+  <backcolor>0xFFFFFF</backcolor>
+  <frontcolor>0x000000</frontcolor>
+  <lightcolor>0xA81414</lightcolor>
+  <jpgfile>https://blog.yanlei.me/wp-content/uploads/2015/09/372287b8123a4cb6662ec66801a070e2.jpeg</jpgfile>
+</mp3config>

@@ -1,0 +1,265 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ImagePress\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-02-06 13:15-0000\n"
+"PO-Revision-Date: 2014-05-14 16:00-0000\n"
+"Last-Translator: Ciprian Popescu <getbutterfly@gmail.com>\n"
+"Language-Team: Andrea Cavaliero <stardamage@gmail.com>\n"
+"Language: it_IT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.5\n"
+"X-Poedit-KeywordsList: _;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../imagepress.php:83
+msgid "Images"
+msgstr "Immagini"
+
+#: ../imagepress.php:106
+msgid "ERROR: "
+msgstr "ERRORE:"
+
+#: ../imagepress.php:116
+msgid "User already exists. Password inherited."
+msgstr ""
+
+#: ../imagepress.php:134 ../imagepress.php:135
+msgid "New image uploaded!"
+msgstr "Nuova immagine caricata!"
+
+#: ../imagepress.php:146
+msgid "Image uploaded!"
+msgstr "Immagine caricata!"
+
+#: ../imagepress.php:162
+msgid "You need to be logged in to upload an image."
+msgstr "Devi essere registrato per caricare un'immagine"
+
+#: ../imagepress.php:276
+msgid "No file uploaded or upload error!"
+msgstr "Nessun file caricato o errore nel caricamento!"
+
+#: ../imagepress.php:283
+msgid "Your caption may only contain letters, numbers and spaces!"
+msgstr "La descrizione può contenere soltanto lettere, numeri e spazi!"
+
+#: ../imagepress.php:292
+msgid "Invalid format! Your image must be .jpg, .png or .gif."
+msgstr "Formato invalido! I formati accettati sono .jpg, .png o .gif"
+
+#: ../imagepress.php:295
+msgid "Invalid size! Your image must not exceed "
+msgstr "Dimensione non valida! La tua immagine non deve superare i"
+
+#: ../imagepress.php:309
+msgid "Your Name"
+msgstr ""
+
+#: ../imagepress.php:310
+msgid "Your Email"
+msgstr "Email"
+
+#: ../imagepress.php:322
+msgid "maximum"
+msgstr "massimo"
+
+#: ../imagepress.php:411 ../imagepress.php:413
+msgid "Add New Image"
+msgstr "Aggiungi Nuova Immagine"
+
+#: ../imagepress.php:412
+msgid "Edit Image"
+msgstr "Modifica Immagine"
+
+#: ../imagepress.php:414
+msgid "View Images"
+msgstr "Vedi Immagini"
+
+#: ../imagepress.php:415
+msgid "View Image"
+msgstr "Vedi l'immagine"
+
+#: ../imagepress.php:416
+msgid "Search Images"
+msgstr "Cerca tra le Immagini"
+
+#: ../imagepress.php:417
+msgid "No Images found"
+msgstr "Nessuna Immagine trovata"
+
+#: ../imagepress.php:418
+msgid "No Images found in Trash"
+msgstr "Nessuna Immagine trovata nel Cestino"
+
+#: ../imagepress.php:420
+msgid "ImagePress"
+msgstr "ImagePress"
+
+#: ../imagepress.php:442
+msgid "Search Image Categories"
+msgstr "Cerca Categorie di immagini"
+
+#: ../imagepress.php:443
+msgid "All Image Categories"
+msgstr "Tutte le Categorie di Immagini"
+
+#: ../imagepress.php:444
+msgid "Parent Image Category"
+msgstr "Categoria di Immagini Genitore"
+
+#: ../imagepress.php:445
+msgid "Parent Image Category:"
+msgstr "Categoria di Immagini Genitore:"
+
+#: ../imagepress.php:446
+msgid "Edit Image Category"
+msgstr "Modifica Categoria di Immagini"
+
+#: ../imagepress.php:447
+msgid "Update Image Category"
+msgstr "Aggiorna Categoria di Immagini"
+
+#: ../imagepress.php:448
+msgid "Add New Image Category"
+msgstr "Aggiungi Nuova Categoria di Immagini"
+
+#: ../imagepress.php:449
+msgid "New Image Name"
+msgstr "Nuovo Nome per l'immagine"
+
+#: ../imagepress.php:450
+msgid "Image Categories"
+msgstr "Categorie di Immagini"
+
+#: ../imagepress.php:522
+msgid "Search images..."
+msgstr "Cerca Immagini..."
+
+#: ../imagepress.php:523
+msgid "Search"
+msgstr "Cerca"
+
+#: ../imagepress.php:707
+msgid "Sort by category"
+msgstr "Categoria dell'immagine"
+
+#: ../imagepress.php:722
+msgid "Sort by author"
+msgstr ""
+
+#: ../imagepress.php:862
+msgid "No images in this category!"
+msgstr "Nessuna Immagine In Questa Categoria"
+
+#: ../imagepress.php:947
+msgid "Most Viewed Images"
+msgstr ""
+
+#: ../imagepress.php:1009
+msgid "Most Voted Images"
+msgstr ""
+
+#: ../documentation/single-user_images.php:13
+msgid "Added by"
+msgstr ""
+
+#: ../documentation/single-user_images.php:13
+msgid "on"
+msgstr ""
+
+#: ../documentation/single-user_images.php:13
+msgid "Category:"
+msgstr "Categoria"
+
+#: ../includes/page-settings.php:14
+msgid "Dashboard"
+msgstr ""
+
+#: ../includes/page-settings.php:15
+msgid "Settings"
+msgstr "Configurazione"
+
+#: ../includes/page-settings.php:16 ../includes/page-settings.php:136
+msgid "Configurator"
+msgstr ""
+
+#: ../includes/page-settings.php:17
+msgid "Email"
+msgstr "Email"
+
+#: ../includes/page-settings.php:18
+msgid "Labels"
+msgstr ""
+
+#: ../includes/page-settings.php:19 ../includes/page-settings.php:105
+msgid "Maintenance"
+msgstr ""
+
+#: ../includes/page-settings.php:251
+msgid "Submission and Display Settings"
+msgstr "Configurazione dell'invio e della presentazione"
+
+#: ../includes/page-settings.php:379
+msgid "Email Settings"
+msgstr "Configurazione Email"
+
+#: ../includes/page-settings.php:415
+msgid "Label Settings"
+msgstr ""
+
+#~ msgid "images(s) deleted!"
+#~ msgstr "una o più immagini sono state cancellate"
+
+#~ msgid "Your pending/unpublished images"
+#~ msgstr "Le tue immagini da approvare"
+
+#~ msgid "Image"
+#~ msgstr "Immagine"
+
+#~ msgid "Caption"
+#~ msgstr "Descrizione"
+
+#~ msgid "Category"
+#~ msgstr "Categoria"
+
+#~ msgid "Author"
+#~ msgstr "Autore"
+
+#~ msgid "Delete"
+#~ msgstr "Elimina"
+
+#~ msgid "Delete selected images"
+#~ msgstr "Elimina le immagini selezionate"
+
+#~ msgid "Uploading..."
+#~ msgstr "Caricamento..."
+
+#~ msgid "Image Caption&hellip;"
+#~ msgstr "Descrizione dell'immagine&hellip;"
+
+#~ msgid "Image caption"
+#~ msgstr "Descrizione dell'immagine"
+
+#~ msgid "Image category"
+#~ msgstr "Categoria dell'immagine"
+
+#~ msgid "Select Image&hellip;"
+#~ msgstr "Scegli Immagine&hellip;"
+
+#~ msgid "Image Description&hellip;"
+#~ msgstr "Descrizione dell'immagine&hellip;"
+
+#~ msgid "Select Image Category&hellip;"
+#~ msgstr "Scegli una categoria di immagini&hellip;"
+
+#~ msgid "Autore"
+#~ msgstr "Author"
+
+#~ msgid "Short image caption..."
+#~ msgstr "Breve descrizione dell'immagine..."
