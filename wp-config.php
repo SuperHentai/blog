@@ -15,16 +15,16 @@
 
 // ** MySQL 设置 - 具体信息来自您正在使用的主机 ** //
 /** WordPress数据库的名称 */
-define('DB_NAME', 'blog');
+define('DB_NAME', getenv('MYSQL_DATABASE');
 
 /** MySQL数据库用户名 */
-define('DB_USER', 'admin9xWafDz');
+define('DB_USER', getenv('MYSQL_USER');
 
 /** MySQL数据库密码 */
-define('DB_PASSWORD', 'JKb9T_c38wuT');
+define('DB_PASSWORD', getenv('MYSQL_PASSWORD');
 
 /** MySQL主机 */
-define('DB_HOST', getenv('OPENSHIFT_MYSQL_DB_HOST').':'.getenv('OPENSHIFT_MYSQL_DB_PORT'));
+define('DB_HOST', getenv('MYSQL_PORT_3306_TCP'));
 
 /** 创建数据表时默认的文字编码 */
 define('DB_CHARSET', 'utf8');
