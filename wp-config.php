@@ -15,13 +15,13 @@
 
 // ** MySQL 设置 - 具体信息来自您正在使用的主机 ** //
 /** WordPress数据库的名称 */
-define('DB_NAME', getenv('MYSQL_DATABASE');
+define('DB_NAME', getenv('MYSQL_DATABASE'));
 
 /** MySQL数据库用户名 */
-define('DB_USER', getenv('MYSQL_USER');
+define('DB_USER', getenv('MYSQL_USER'));
 
 /** MySQL数据库密码 */
-define('DB_PASSWORD', getenv('MYSQL_PASSWORD');
+define('DB_PASSWORD', getenv('MYSQL_PASSWORD'));
 
 /** MySQL主机 */
 define('DB_HOST', getenv('MYSQL_PORT_3306_TCP'));

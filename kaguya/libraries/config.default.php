@@ -114,14 +114,14 @@ $i = 1;
  *
  * @global string $cfg['Servers'][$i]['host']
  */
-$cfg['Servers'][$i]['host'] = 'localhost';
+$cfg['Servers'][$i]['host'] = getenv('MYSQL_SERVICE_HOST');
 
 /**
  * MySQL port - leave blank for default port
  *
  * @global string $cfg['Servers'][$i]['port']
  */
-$cfg['Servers'][$i]['port'] = '';
+$cfg['Servers'][$i]['port'] = getenv('MYSQL_SERVICE_PORT');
 
 /**
  * Path to the socket - leave blank for default socket
